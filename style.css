@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    padding-bottom: 10px;
     
 }
 .top-banner{
@@ -34,4 +35,15 @@ h1{
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+
+.f{
+    display: flex;
 }
